@@ -1,3 +1,12 @@
+Example to illustrate Angular support of leaflet-responsive-popup 
+
+# Try this example
+  * clone this repository with `git`
+  * `cd ng-leaflet-responsive-popup`
+  * `npm install`
+  * `npm start`
+  * visit http://localhost:4200
+
 # Create new project
 
 `ng new ng-leaflet-responsive-popup`
