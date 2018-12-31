@@ -1,4 +1,4 @@
-Example to illustrate Angular support of leaflet-responsive-popup 
+Example to illustrate how to use leaflet-responsive-popup in Angular
 
 # Try this example
   * clone this repository with `git`
