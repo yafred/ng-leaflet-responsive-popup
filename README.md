@@ -44,8 +44,8 @@ If you are using Angular CLI, you will need to add the Leaflet CSS files to the 
 
 ## Install dependencies
 
-`cd ng-leaflet-responsive-popup`
-`npm install`
+  * `cd ng-leaflet-responsive-popup`
+  * `npm install`
 
 ## Add a map in component
 
