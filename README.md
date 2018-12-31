@@ -7,7 +7,9 @@ Example to illustrate how to use leaflet-responsive-popup in Angular
   * `npm start`
   * visit http://localhost:4200
 
-# Create new project
+# Do it from scratch
+
+## Create a project
 
 `ng new ng-leaflet-responsive-popup`
 
